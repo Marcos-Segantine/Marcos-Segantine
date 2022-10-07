@@ -1,7 +1,7 @@
 
 ### Olá eu sou o Marcos Segantine ✌️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Segantine&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Segantine&show_icons=true&title_color=9156EC&bg_color=131219&text_color=B4B4B4&icon_color=B991FF)
 
 
 ## Tecnologias que eu utilizo
@@ -12,4 +12,6 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="css" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+</div><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Segantine&layout=compact)](https://github.com/Marcos-Segantine/github-readme-stats)
