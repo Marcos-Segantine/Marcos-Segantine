@@ -2,9 +2,9 @@
 ### Olá eu sou o Marcos Segantine ✌️
 
 <div align="center">
-  <a href="https://github.com/marcos-segantine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-segantine&show_icons=true&title_color=9156EC&bg_color=131219&text_color=B4B4B4&icon_color=B991FF&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-segantine&layout=compact&card_width=200&langs_count=7&title_color=9156EC&bg_color=131219&text_color=B4B4B4&icon_color=B991FF"/>
+  <a href="https://github.com/Marcos-Segantine">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Segantine&show_icons=true&title_color=9156EC&bg_color=131219&text_color=B4B4B4&icon_color=B991FF&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Segantine&layout=compact&card_width=200&langs_count=7&title_color=9156EC&bg_color=131219&text_color=B4B4B4&icon_color=B991FF"/>
 </div>
 
 ## Tecnologias que eu utilizo
