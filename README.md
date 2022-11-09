@@ -1,14 +1,14 @@
 
-### Olá eu sou o Marcos Segantine ✌️
+### Hello World ✌️
+<br>
 
-<div align="center">
-  <a href="https://github.com/Marcos-Segantine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Segantine&show_icons=true&title_color=9156EC&bg_color=131219&text_color=B4B4B4&icon_color=B991FF&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Segantine&layout=compact&card_width=200&langs_count=7&title_color=9156EC&bg_color=131219&text_color=B4B4B4&icon_color=B991FF"/>
-</div>
+<img src="https://github-readme-stats-plum-eta.vercel.app/api?username=marcos-segantine&show_icons=true&title_color=9156EC&bg_color=131219&text_color=B4B4B4&icon_color=B991FF&count_private=true" width="54.4%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-segantine&layout=compact&title_color=9156EC&bg_color=131219&text_color=B4B4B4&" width="45.6%">
 
-## Tecnologias que eu utilizo
+<img src="https://github-profile-trophy.vercel.app/?username=marcos-segantine&theme=onedark" width="100%">
+
+## Technologies
 <div style="display: inline_blok">
+  <br />
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -19,14 +19,3 @@
     <img align="center" alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br>
-<br>
-
-## Minhas redes
-<div style="display: inline_block">
-  <a href="mailto:msegantine8@gmail.com" target="_blank">
-    <img align="center" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/marcossegantine/">
-    <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
