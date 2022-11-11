@@ -4,8 +4,6 @@
 
 <img src="https://github-readme-stats-plum-eta.vercel.app/api?username=marcos-segantine&show_icons=true&title_color=9156EC&bg_color=131219&text_color=B4B4B4&icon_color=B991FF&count_private=true" width="54.4%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-segantine&layout=compact&title_color=9156EC&bg_color=131219&text_color=B4B4B4&" width="45.6%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=marcos-segantine&theme=onedark" width="100%">
-
 ## Technologies
 <div style="display: inline_blok">
   <br />
